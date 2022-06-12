@@ -1,2 +1,2 @@
 # Flower-shop_website
-A website for flowers to be purchase
+The flower shop’s purpose is to provide our customers with quality flowers and floral arrangements at a fair price.
